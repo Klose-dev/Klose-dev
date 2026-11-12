@@ -5,7 +5,7 @@ I’m a Software Developer passionate about building practical solutions through
 I’m interested in software development, full-stack engineering, problem-solving, system design, and building projects that solve real-world problems.
 
 * 💻 Passionate about software development and technology.
-* 🐍 Primary language: Python.
+*  Primary language: Python.
 * 🚀 Exploring new technologies and building meaningful projects.
 * 🧠 Always learning, improving, and turning ideas into reality.
 
@@ -28,4 +28,25 @@ Hi, I’m AKongseh Klose 👋<br><br>I’m a Software Developer passionate about
 ---
 [![](https://komarev.com/ghpvc/?username=Klose-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=Klose-dev&title=Klose-dev&subtitle=Building%20things%20on%20the%20internet&theme=dark"><img alt="Klose-dev hero" src="https://coolreadme.xyz/api/hero-banner?user=Klose-dev&title=Klose-dev&subtitle=Building%20things%20on%20the%20internet&theme=light"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=Klose-dev&lines=Building%20things%20on%20the%20internet%7Cgithub.com%2FKlose-dev&theme=dark"><img alt="typing intro" src="https://coolreadme.xyz/api/typing-card?user=Klose-dev&lines=Building%20things%20on%20the%20internet%7Cgithub.com%2FKlose-dev&theme=light"></picture>
+
+### Stats
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/stats-card?user=Klose-dev&theme=dark"><img alt="Klose-dev GitHub stats" src="https://coolreadme.xyz/api/stats-card?user=Klose-dev&theme=light"></picture>
+
+![dog streak](https://coolreadme.xyz/api/dog-card?user=Klose-dev)
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/wakatime-card?user=Klose-dev&theme=dark"><img alt="Klose-dev coding time" src="https://coolreadme.xyz/api/wakatime-card?user=Klose-dev&theme=light"></picture>
+
+### Connect
+
+![Connect with Klose-dev](https://coolreadme.xyz/api/social-card?user=Klose-dev&title=Let's%20talk&sub=DMs%20open&skills=&style=instagram)
+
+
+<sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/Klose-dev) — one-click GitHub README cards.</sub>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
